@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Sajin, Aspiring Data Engineer currently pursuing my MSc in Data Science at Madras Christian College,Chennai. <br>Exploring Data Science techniques and tools like Python, SQL, and Machine Learning algorithms.<br>🌱 Always learning and open to collaborations in the Data Science and Tech community.<br><br>
+🚀 Final Year MSc Data Science | On a mission to become a Data Engineer
+⚙️ Python • PostgreSQL • ETL • ML
+🔥 Just started my journey with: Airflow | Spark | AWS
+💼 Actively seeking Data Engineering opportunities
+.<br><br>
 
 
 ## 🌐 Socials:
