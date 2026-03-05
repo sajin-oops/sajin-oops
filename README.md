@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Final Year MSc Data Science | On a mission to become a Data Engineer
+🚀 Final Year MSc Data Science | On a mission to become a Data Engineer<br>
 ⚙️ Python • PostgreSQL • ETL • ML
 🔥 Just started my journey with: Airflow | Spark | AWS
 💼 Actively seeking Data Engineering opportunities
