@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sajin, a Data Science enthusiast currently pursuing my MSc in Data Science at Madras Christian College,Chennai. <br>Exploring Data Science techniques and tools like Python, SQL, and Machine Learning algorithms.<br>🌱 Always learning and open to collaborations in the Data Science and Tech community.<br><br>
+I'm Sajin, Aspiring Data Engineer currently pursuing my MSc in Data Science at Madras Christian College,Chennai. <br>Exploring Data Science techniques and tools like Python, SQL, and Machine Learning algorithms.<br>🌱 Always learning and open to collaborations in the Data Science and Tech community.<br><br>
 
 
 ## 🌐 Socials:
